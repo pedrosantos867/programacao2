@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="301.0" y="0.0">Professor</node>
+    <node x="-249.6896819239721" y="27.34445306439102">Aluno</node>
+    <node x="0.0" y="0.0">Aula</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.8210191082802547" x="449.50960499883263" y="217.5096974398759" />
+  <SelectedNodes>
+    <node>Aluno</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
